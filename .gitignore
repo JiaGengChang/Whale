@@ -1,0 +1,5 @@
+#.cad/*.kicad_prl
+#.cad/fp-info-cache
+#.cad/fp-lib-table
+#.cad/gerbers
+#.cad/gerbers.zip

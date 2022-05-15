@@ -1,6 +1,9 @@
 # Whale Pro Micro
 
-This is a drop-in USB-C replacement for the sparkfun Pro Micro popular in split keyboards. It is a modified version of **[Goldfish]** by staticintlucas. Its name comes from the Mandarin word for goldfish, which sounds the same as Mandarin for whale.
+**Whale** is drop-in USB-C replacement for the sparkfun Pro Micro popular in split keyboards. It is a modified version of **[Goldfish]** by staticintlucas that uses a cheaply available USB-C receptacle. In Mandarin, goldfish sounds the same as whale.
+
+Link to [Schematics]
+Link to [PCB gerber files]
 
 ---
 
@@ -40,6 +43,8 @@ This is a drop-in USB-C replacement for the sparkfun Pro Micro popular in split 
 <!----------------------------------------------------------------------------->
 
 [Goldfish]: https://github.com/staticintlucas/Goldfish
+[Schematics]: doc/whale.pdf
+[PCB gerber files]: cad/gerbers/
 [Preview]: doc/preview.png
 [usb-c-link]: https://www.aliexpress.com/item/32998900371.html?spm=a2g0o.order_list.0.0.31b61802zlAvym
 [switch-link]: https://www.aliexpress.com/item/1005002490728099.html?spm=a2g0o.order_list.0.0.4c182faewbHx

@@ -28,9 +28,13 @@ This is a drop-in USB-C replacement for the sparkfun Pro Micro popular in split 
 **[Creative Commons Attribution Share-Alike 4.0 License][License]**.
 
 **-** Original `Arduino Mini` design by **Team Arduino**.
+
 **-** Arduino `Pro Mini` design by **Spark Fun Electronics**.
+
 **-** `Pro Micro` design by **Spark Fun Electronics**.
-**-** Wiring schematics based on Goldfish by Dr Derivative
+
+**-** Wiring schematics largely based on Goldfish by Dr Derivative.
+
 ---
 
 <!----------------------------------------------------------------------------->
